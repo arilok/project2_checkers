@@ -52,3 +52,11 @@ h1{
 .table{
 	margin-left: 275px;
 }
+
+.resetImage{
+	width: 100px;
+	float: left;
+	margin-left: 0px;
+	margin-right: auto;
+	padding: 5px;
+}
